@@ -1,2 +1,6 @@
 név = input('Hogy hívnak téged? ')
+szuletesi_ev = input('Mi a születési éved? ')
+csillagjegy = input ('Mi a csillagjegyed? ')
 print('Szervusz ', név, ', örülök, hogy találkoztunk.', sep='')
+print('születési idő: ',szuletesi_ev)
+print('csillagjegyed: ',csillagjegy)
